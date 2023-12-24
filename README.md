@@ -8,11 +8,11 @@
 <hr/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theofficialsiud&label=Profile%20views&color=0e75b6&style=flat" alt="theofficialsiud" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HimanshuCogniar&label=Profile%20views&color=0e75b6&style=flat" alt="HimanshuCogniar" /> </p>
 
 
 
-- 💬 Ask me about **Angular, Dotnet, Html, C++, JAVA, Problem Solving, SQL, **
+- 💬 Ask me about **Angular, Dotnet, Html, C++, JAVA, Problem Solving, SQL**
 
 - ⚡ Fun fact **I even comfortable with technologies that I hardly heard of!**
 <hr/>
