@@ -10,7 +10,7 @@
 
 
 
-- 💬 Ask me about **Angular, Dotnet, Html, C++,Postgres JAVA, Problem Solving, SQL**
+- 💬 Ask me about **Angular, Dotnet, Html, C++,Postgres, JAVA, Problem Solving, SQL**
 
 - ⚡ Fun fact **I even comfortable with technologies that I hardly heard of!**
 <hr/>
